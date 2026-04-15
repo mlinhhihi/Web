@@ -1,0 +1,50 @@
+﻿@model QLBanHangGauBong_65131773.Models.LOAISP
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>LOAISP</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenLoaiSP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenLoaiSP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChieuRongCM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChieuRongCM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChieuDaiCM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChieuDaiCM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KichThuoc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KichThuoc)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MaLoaiSP }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

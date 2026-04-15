@@ -1,0 +1,52 @@
+﻿@model IEnumerable<QLBanHangGauBong_65131773.Models.SANPHAM>
+
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb-4 text-center">@ViewBag.Title</h2>
+
+<div class="row row-cols-1 row-cols-md-3 row-cols-lg-4 g-4">
+    @foreach (var sp in Model)
+    {
+        <div class="col">
+            <div class="card h-100 shadow-sm">
+
+                <!-- Ảnh sản phẩm -->
+                <a href="@Url.Action("Details", "SANPHAMs_65131773", new { id = sp.MaSP })">
+                    @if (!string.IsNullOrEmpty(sp.AnhSP))
+                    {
+                        <img src="~/Content/Images/@sp.AnhSP" class="card-img-top" style="height:200px; object-fit:cover;" />
+                    }
+                    else
+                    {
+                        <img src="~/Content/Images/no-image.png" class="card-img-top" style="height:200px; object-fit:cover;" />
+                    }
+                </a>
+
+                <div class="card-body text-center">
+                    <!-- Tên sản phẩm -->
+                    <h5 class="card-title fw-bold">
+                        <a href="@Url.Action("Details", "SANPHAMs_65131773", new { id = sp.MaSP })" class="text-decoration-none text-dark">
+                            @sp.TenSP
+                        </a>
+                    </h5>
+
+                    <!-- Giá -->
+                    <p class="text-danger fw-bold mb-1">@String.Format("{0:N0} đ", sp.DonGia)</p>
+
+                    <!-- Form thêm vào giỏ hàng -->
+                    @using (Html.BeginForm("ThemVaoGio", "GIOHANGs_65131773", FormMethod.Post))
+                    {
+                        @Html.Hidden("maSP", sp.MaSP)
+                        <div class="input-group justify-content-center mt-2">
+                            <input type="number" name="soLuong" value="1" min="1" class="form-control form-control-sm" style="max-width:60px;" />
+                            <button type="submit" class="btn btn-success btn-sm ms-1">🛒 Thêm vào giỏ</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>

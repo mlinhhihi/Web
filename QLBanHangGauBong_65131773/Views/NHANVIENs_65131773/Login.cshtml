@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Đăng nhập Admin/Nhân viên";
+}
+
+<h2 class="text-center mt-4">Đăng nhập Admin/Nhân viên</h2>
+
+<div class="row justify-content-center mt-4">
+    <div class="col-md-4">
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger">@ViewBag.Error</div>
+        }
+
+        @using (Html.BeginForm("Login", "NHANVIENs_65131773", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken() 
+
+            <div class="mb-3">
+                <label class="form-label">Tên tài khoản</label>
+                <input type="text" name="TenTK" class="form-control" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Mật khẩu</label>
+                <input type="password" name="MatKhau" class="form-control" required />
+            </div>
+
+            <button type="submit" class="btn btn-danger w-100">Đăng nhập</button>
+        }
+    </div>
+</div>

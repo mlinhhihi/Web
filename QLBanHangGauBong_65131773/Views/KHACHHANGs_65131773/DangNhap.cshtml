@@ -1,0 +1,27 @@
+﻿@model QLBanHangGauBong_65131773.Models.DangNhapKH
+
+@using (Html.BeginForm("DangNhap", "KHACHHANGs_65131773", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.TenTK)
+        @Html.TextBoxFor(m => m.TenTK, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.TenTK)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.MatKhau)
+        @Html.PasswordFor(m => m.MatKhau, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.MatKhau)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Đăng nhập</button>
+}
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+}

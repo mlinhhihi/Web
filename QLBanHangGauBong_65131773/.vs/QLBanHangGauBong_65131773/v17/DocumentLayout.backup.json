@@ -1,0 +1,744 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|c:\\users\\hd laptop\\source\\repos\\qlbanhanggaubong_65131773\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\qlsanphams_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\qlsanphams_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\nhanviens_65131773\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\nhanviens_65131773\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\nhanviens_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\nhanviens_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\nhanviens_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\nhanviens_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\qlbanhanggaubong_65131773.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\qlbanhanggaubong_65131773.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\sanphams_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\sanphams_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\qlsanphams_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\qlsanphams_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\sanphams_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\sanphams_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\dangkykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\dangkykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\dangnhapkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\dangnhapkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\sanphams_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\sanphams_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\loaisps_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\loaisps_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\khachhangs_65131773\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\khachhangs_65131773\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\donhangs_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\donhangs_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\taikhoans_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\taikhoans_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\khachhangs_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\khachhangs_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\sanphams_65131773\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\sanphams_65131773\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\home\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\home\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\donhangs_65131773\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\donhangs_65131773\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\sanphams_65131773\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\sanphams_65131773\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\nhanviens_65131773\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\nhanviens_65131773\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\khachhangs_65131773\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\khachhangs_65131773\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\giohangs_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\giohangs_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\giohangs_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\giohangs_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\sp_xemgiohang_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\sp_xemgiohang_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\donhangs_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\donhangs_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\khachhangs_65131773\\lsdonmua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\khachhangs_65131773\\lsdonmua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\khachhangs_65131773\\thongtinkh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\khachhangs_65131773\\thongtinkh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\khachhangs_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\khachhangs_65131773\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\khachhangs_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\khachhangs_65131773\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\sanphamnoibat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\sanphamnoibat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\models\\qlbanhanggaubong_65131773.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:models\\qlbanhanggaubong_65131773.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\donhangs_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\donhangs_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\giohangs_65131773\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\giohangs_65131773\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\views\\khachhangs_65131773\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:views\\khachhangs_65131773\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\controllers\\loaisps_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC3B2B-2083-4156-9178-157A36EC1CC6}|QLBanHangGauBong_65131773.csproj|solutionrelative:controllers\\loaisps_65131773controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLBanHangGauBong_65131773.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\QLBanHangGauBong_65131773.cs",
+              "RelativeDocumentMoniker": "Models\\QLBanHangGauBong_65131773.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\QLBanHangGauBong_65131773.cs",
+              "RelativeToolTip": "Models\\QLBanHangGauBong_65131773.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:09:06.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\NHANVIEN.cs",
+              "RelativeDocumentMoniker": "Models\\NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\NHANVIEN.cs",
+              "RelativeToolTip": "Models\\NHANVIEN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:09:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NHANVIENs_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\NHANVIENs_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\NHANVIENs_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\NHANVIENs_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\NHANVIENs_65131773Controller.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwHQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:33:37.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\NHANVIENs_65131773\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\NHANVIENs_65131773\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\NHANVIENs_65131773\\Index.cshtml",
+              "RelativeToolTip": "Views\\NHANVIENs_65131773\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T05:32:46.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T05:47:35.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\QLSANPHAMs_65131773\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\QLSANPHAMs_65131773\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\QLSANPHAMs_65131773\\Index.cshtml",
+              "RelativeToolTip": "Views\\QLSANPHAMs_65131773\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T07:25:52.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\NHANVIENs_65131773\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\NHANVIENs_65131773\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\NHANVIENs_65131773\\Login.cshtml",
+              "RelativeToolTip": "Views\\NHANVIENs_65131773\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T02:23:07.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "Models\\KHACHHANG.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\KHACHHANG.cs",
+              "RelativeToolTip": "Models\\KHACHHANG.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:54:57.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SANPHAMs_65131773\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Index.cshtml",
+              "RelativeToolTip": "Views\\SANPHAMs_65131773\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T04:42:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SANPHAM.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\SANPHAM.cs",
+              "RelativeDocumentMoniker": "Models\\SANPHAM.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\SANPHAM.cs",
+              "RelativeToolTip": "Models\\SANPHAM.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T01:59:49.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLSANPHAMs_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\QLSANPHAMs_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\QLSANPHAMs_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\QLSANPHAMs_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\QLSANPHAMs_65131773Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:25:44.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SANPHAMs_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\SANPHAMs_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\SANPHAMs_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\SANPHAMs_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\SANPHAMs_65131773Controller.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA+wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:32:08.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T02:41:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DangNhapKH.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\DangNhapKH.cs",
+              "RelativeDocumentMoniker": "Models\\DangNhapKH.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\DangNhapKH.cs",
+              "RelativeToolTip": "Models\\DangNhapKH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:14:26.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangKyKH.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\DangKyKH.cs",
+              "RelativeDocumentMoniker": "Models\\DangKyKH.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\DangKyKH.cs",
+              "RelativeToolTip": "Models\\DangKyKH.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:05:36.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GIOHANG.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\GIOHANG.cs",
+              "RelativeDocumentMoniker": "Models\\GIOHANG.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\GIOHANG.cs",
+              "RelativeToolTip": "Models\\GIOHANG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:21:13.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\SANPHAMs_65131773\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Details.cshtml",
+              "RelativeToolTip": "Views\\SANPHAMs_65131773\\Details.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T12:30:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\LOAISPs_65131773\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\LOAISPs_65131773\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\LOAISPs_65131773\\Details.cshtml",
+              "RelativeToolTip": "Views\\LOAISPs_65131773\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T06:58:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:18:57.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\DONHANGs_65131773\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DONHANGs_65131773\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\DONHANGs_65131773\\Index.cshtml",
+              "RelativeToolTip": "Views\\DONHANGs_65131773\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T15:22:16.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\KHACHHANGs_65131773\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\KHACHHANGs_65131773\\DangKy.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T06:04:19.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaiKhoans_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\TaiKhoans_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaiKhoans_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\TaiKhoans_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\TaiKhoans_65131773Controller.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:17:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KHACHHANGs_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\KHACHHANGs_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\KHACHHANGs_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\KHACHHANGs_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\KHACHHANGs_65131773Controller.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:34:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\SANPHAMs_65131773\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Edit.cshtml",
+              "RelativeToolTip": "Views\\SANPHAMs_65131773\\Edit.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T01:20:06.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IndexAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Home\\IndexAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\IndexAdmin.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Home\\IndexAdmin.cshtml",
+              "RelativeToolTip": "Views\\Home\\IndexAdmin.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T05:39:38.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\DONHANGs_65131773\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DONHANGs_65131773\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\DONHANGs_65131773\\Edit.cshtml",
+              "RelativeToolTip": "Views\\DONHANGs_65131773\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T06:01:59.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\SANPHAMs_65131773\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\SANPHAMs_65131773\\Create.cshtml",
+              "RelativeToolTip": "Views\\SANPHAMs_65131773\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T05:56:17.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\NHANVIENs_65131773\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\NHANVIENs_65131773\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\NHANVIENs_65131773\\Create.cshtml",
+              "RelativeToolTip": "Views\\NHANVIENs_65131773\\Create.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T05:57:56.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\KHACHHANGs_65131773\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\DangNhap.cshtml",
+              "RelativeToolTip": "Views\\KHACHHANGs_65131773\\DangNhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T06:06:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T05:25:44.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GIOHANGs_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\GIOHANGs_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\GIOHANGs_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\GIOHANGs_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\GIOHANGs_65131773Controller.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:46:13.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\GIOHANGs_65131773\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\GIOHANGs_65131773\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\GIOHANGs_65131773\\Index.cshtml",
+              "RelativeToolTip": "Views\\GIOHANGs_65131773\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T05:05:57.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "sp_XemGioHang_Result.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\sp_XemGioHang_Result.cs",
+              "RelativeDocumentMoniker": "Models\\sp_XemGioHang_Result.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\sp_XemGioHang_Result.cs",
+              "RelativeToolTip": "Models\\sp_XemGioHang_Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T02:58:55.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\DONHANGs_65131773\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\DONHANGs_65131773\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\DONHANGs_65131773\\Details.cshtml",
+              "RelativeToolTip": "Views\\DONHANGs_65131773\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T02:09:52.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LSDonMua.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\LSDonMua.cshtml",
+              "RelativeDocumentMoniker": "Views\\KHACHHANGs_65131773\\LSDonMua.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\LSDonMua.cshtml",
+              "RelativeToolTip": "Views\\KHACHHANGs_65131773\\LSDonMua.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T15:24:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ThongTinKH.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\ThongTinKH.cshtml",
+              "RelativeDocumentMoniker": "Views\\KHACHHANGs_65131773\\ThongTinKH.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\ThongTinKH.cshtml",
+              "RelativeToolTip": "Views\\KHACHHANGs_65131773\\ThongTinKH.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T15:22:00.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\KHACHHANGs_65131773\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\Details.cshtml",
+              "RelativeToolTip": "Views\\KHACHHANGs_65131773\\Details.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T12:57:51.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\KHACHHANGs_65131773\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\Index.cshtml",
+              "RelativeToolTip": "Views\\KHACHHANGs_65131773\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T06:09:18.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SanPhamNoiBat.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\SanPhamNoiBat.cs",
+              "RelativeDocumentMoniker": "Models\\SanPhamNoiBat.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\SanPhamNoiBat.cs",
+              "RelativeToolTip": "Models\\SanPhamNoiBat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:22:59.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Content\\Site.css",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Content\\Site.css",
+              "RelativeToolTip": "Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-07T09:02:33.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QLBanHangGauBong_65131773.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\QLBanHangGauBong_65131773.edmx",
+              "RelativeDocumentMoniker": "Models\\QLBanHangGauBong_65131773.edmx",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Models\\QLBanHangGauBong_65131773.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\QLBanHangGauBong_65131773.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-07T05:09:45.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DONHANGs_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\DONHANGs_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\DONHANGs_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\DONHANGs_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\DONHANGs_65131773Controller.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:34:26.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\GIOHANGs_65131773\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\GIOHANGs_65131773\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\GIOHANGs_65131773\\Edit.cshtml",
+              "RelativeToolTip": "Views\\GIOHANGs_65131773\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T06:15:36.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\KHACHHANGs_65131773\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Views\\KHACHHANGs_65131773\\Create.cshtml",
+              "RelativeToolTip": "Views\\KHACHHANGs_65131773\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T05:57:04.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LOAISPs_65131773Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\LOAISPs_65131773Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\LOAISPs_65131773Controller.cs",
+              "ToolTip": "C:\\Users\\HD LAPTOP\\source\\repos\\QLBanHangGauBong_65131773\\Controllers\\LOAISPs_65131773Controller.cs",
+              "RelativeToolTip": "Controllers\\LOAISPs_65131773Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:33:11.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<QLBanHangGauBong_65131773.Models.LOAISP>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenLoaiSP)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChieuRongCM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChieuDaiCM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KichThuoc)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenLoaiSP)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChieuRongCM)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChieuDaiCM)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KichThuoc)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaLoaiSP }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaLoaiSP }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaLoaiSP })
+        </td>
+    </tr>
+}
+
+</table>

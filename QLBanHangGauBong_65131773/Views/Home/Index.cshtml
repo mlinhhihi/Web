@@ -1,0 +1,92 @@
+﻿@model List<QLBanHangGauBong_65131773.Models.SanPhamNoiBat>
+
+@{
+    ViewBag.Title = "Trang chủ";
+    var kh = Session["KhachHang"] as QLBanHangGauBong_65131773.Models.KHACHHANG;
+}
+
+<!-- Banner -->
+<div class="container text-center p-5 mb-4 rounded-3" style="background-color:#ffe4f0">
+    <h1 class="display-5 fw-bold text-danger">🐻 GẤU BỰ SHOP 🐻</h1>
+    <p class="fs-5">
+        Thiên đường gấu bông dễ thương – quà tặng cho mọi khoảnh khắc 💕
+    </p>
+
+    @if (kh == null)
+    {
+        <a href="@Url.Action("Index", "SANPHAMs_65131773")"
+           class="btn btn-outline-danger btn-lg me-2">
+            Xem sản phẩm
+        </a>
+
+        <a href="@Url.Action("DangNhap", "KHACHHANGs_65131773")"
+           class="btn btn-outline-danger btn-lg">
+            Đăng nhập
+        </a>
+    }
+</div>
+
+<!-- Sản phẩm bán chạy & mới -->
+<section id="san-pham" class="container mt-5">
+    <h2 class="text-center mb-4">🔥 Sản phẩm bán chạy & mới</h2>
+    <div class="row">
+        @foreach (var sp in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <img src="~/Content/Images/@sp.AnhSP" class="card-img-top" style="height:200px; object-fit:cover" />
+                    <div class="card-body text-center">
+                        <h6 class="fw-bold">@sp.TenSP</h6>
+                        <p class="text-danger mb-1">@String.Format("{0:N0} đ", sp.DonGia)</p>
+                        <span class="badge bg-danger">🔥 Đã bán @sp.TongBan</span>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</section>
+<!-- Giới thiệu -->
+<section id="gioi-thieu" class="container-fluid mt-5 py-5">
+    <div class="row align-items-center">
+        <!-- Cột nội dung -->
+        <div class="col-md-6 p-5">
+            <h2 class="mb-4">🐻 Giới thiệu Gấu Bự Shop</h2>
+            <p>Gấu Bự Shop là cửa hàng chuyên cung cấp những chú gấu bông dễ thương, chất lượng, là món quà ấm áp và độc đáo cho mọi khoảnh khắc.</p>
+
+            <p>Mỗi sản phẩm được chăm chút tỉ mỉ, sử dụng chất liệu cao cấp, mềm mại, an toàn cho mọi lứa tuổi. Chúng tôi luôn hướng đến trải nghiệm tốt nhất cho khách hàng với những sản phẩm:</p>
+
+            <ul class="list-unstyled mt-3">
+                <li class="mb-2">🌿 Chất liệu an toàn và thân thiện môi trường</li>
+                <li class="mb-2">🧸 Thiết kế độc bản, dễ thương</li>
+            </ul>
+
+            <a href="@Url.Action("Index", "SANPHAMs_65131773")" class="btn btn-danger mt-3">Xem sản phẩm</a>
+        </div>
+
+        <!-- Cột ảnh  -->
+        <div class="col-md-6 p-0">
+            <img src="~/Content/Images/GioiThieu.jpg"
+                 alt="Gấu bông"
+                 class="img-fluid w-100 h-100"
+                 style="object-fit: cover;">
+        </div>
+    </div>
+</section>
+
+
+<!-- Liên hệ -->
+<section id="lien-he" class="container mt-5">
+    <h2 class="text-center mb-4">Liên hệ</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <h5>📍 Địa chỉ</h5>
+            <p>32 Nguyễn Mậu Tài, Tây Nha Trang, Khánh Hòa</p>
+
+            <h5>📞 Điện thoại</h5>
+            <p>0962781546</p>
+
+            <h5>✉ Email</h5>
+            <p>linh.ttm.65cntt@ntu.edu.vn</p>
+        </div>
+    </div>
+</section>

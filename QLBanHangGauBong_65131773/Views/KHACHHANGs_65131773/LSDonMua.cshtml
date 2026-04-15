@@ -1,0 +1,23 @@
+﻿@model List<QLBanHangGauBong_65131773.Models.DONHANG>
+
+<h2>Lịch sử đơn hàng</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Mã đơn</th>
+            <th>Ngày đặt</th>
+            <th>Tổng tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.SoHD</td>
+                <td>@d.NgayDatHang.?ToShortDateString()</td>
+                <td>@String.Format("{0:N0} đ", d.TongTien)</td>
+            </tr>
+        }
+    </tbody>
+</table>

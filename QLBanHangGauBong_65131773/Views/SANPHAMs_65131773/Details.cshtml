@@ -1,0 +1,163 @@
+﻿@model QLBanHangGauBong_65131773.Models.SANPHAM
+@{
+    ViewBag.Title = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+
+    <div class="row g-4">
+        <!-- Ảnh sản phẩm -->
+        <div class="col-md-6">
+            <img src="~/Content/Images/@Model.AnhSP" class="img-fluid rounded shadow-sm mb-3" style="width:100%; height:auto; object-fit:cover;" />
+        </div>
+
+        <!-- Thông tin sản phẩm -->
+        <div class="col-md-6">
+            <h2 class="fw-bold">@Model.TenSP</h2>
+
+            <h4 class="text-danger fw-bold" id="priceDisplay">@String.Format("{0:N0} đ", Model.DonGia)</h4>
+            <p class="text-muted small">*Giá có thể thay đổi theo kích thước</p>
+
+            <!-- Chọn kích thước -->
+            <div class="mb-3">
+                <label class="form-label fw-bold">Chọn kích thước</label>
+                <div class="btn-group" role="group">
+                    <input type="radio" class="btn-check" name="size" id="size1" autocomplete="off" data-price="200000">
+                    <label class="btn btn-outline-danger" for="size1">Nhỏ (15cm)</label>
+
+                    <input type="radio" class="btn-check" name="size" id="size2" autocomplete="off" data-price="220000">
+                    <label class="btn btn-outline-danger" for="size2">Vừa (20cm)</label>
+
+                    <input type="radio" class="btn-check" name="size" id="size3" autocomplete="off" data-price="240000">
+                    <label class="btn btn-outline-danger" for="size3">Lớn (25cm)</label>
+                </div>
+            </div>
+
+            <!-- Số lượng + túi quà -->
+            @using (Html.BeginForm("ThemVaoGio", "GIOHANGs_65131773", FormMethod.Post))
+            {
+                @Html.Hidden("maSP", Model.MaSP)
+                @Html.Hidden("donGia", Model.DonGia, new { id = "donGia" })
+
+                <div class="mb-3 d-flex align-items-center">
+                    <label class="me-2 fw-bold">Số lượng</label>
+                    <input type="number" name="soLuong" value="1" min="1" id="soLuong" class="form-control me-2" style="width:80px;" />
+
+                    <div class="form-check ms-2">
+                        <input class="form-check-input" type="checkbox" id="giftWrap" name="giftWrap">
+                        <label class="form-check-label" for="giftWrap">Đóng gói quà (+10.000đ)</label>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label class="fw-bold">Tổng tiền:</label>
+                    <span id="totalPrice" class="text-danger fw-bold">@String.Format("{0:N0} đ", Model.DonGia)</span>
+                </div>
+
+                <button type="submit" class="btn btn-pink me-2">🛒 Thêm vào giỏ</button>
+                <button type="button" class="btn btn-outline-danger">⚡ Mua ngay</button>
+            }
+            <div class="row g-3 text-center mt-4">
+                <div class="col-md-4">
+                    <div class="feature-box p-3 border rounded bg-white shadow-sm h-100 d-flex flex-column justify-content-center align-items-center">
+                        <img src="~/Content/Images/safe.png" alt="Chất liệu an toàn" class="feature-icon">
+                        <p class="mt-2 mb-0 fw-bold">Chất liệu an toàn</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="feature-box p-3 border rounded bg-white shadow-sm h-100 d-flex flex-column justify-content-center align-items-center">
+                        <img src="~/Content/Images/return.png" alt="Đổi trả 7 ngày" class="feature-icon">
+                        <p class="mt-2 mb-0 fw-bold">Đổi trả 7 ngày</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="feature-box p-3 border rounded bg-white shadow-sm h-100 d-flex flex-column justify-content-center align-items-center">
+                        <img src="~/Content/Images/truck.png" alt="Giao hàng toàn quốc" class="feature-icon">
+                        <p class="mt-2 mb-0 fw-bold">Giao hàng toàn quốc</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<style>
+    .btn-pink {
+        background-color: #ff69b4;
+        color: white;
+    }
+
+        .btn-pink:hover {
+            background-color: #ff4c9e;
+            color: white;
+        }
+    .feature-box {
+        background-color: rgba(255, 255, 255, 0.9); 
+        min-height: 140px; 
+        transition: transform 0.2s;
+    }
+
+        .feature-box:hover {
+            transform: translateY(-5px);
+        }
+
+    .feature-icon {
+        width: 50px;
+        height: 50px;
+    }
+   
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const hiddenPrice = document.getElementById('donGia');
+        const quantityInput = document.getElementById('soLuong');
+        const giftCheckbox = document.getElementById('giftWrap');
+        const totalPriceDisplay = document.getElementById('totalPrice');
+        const sizeRadios = document.querySelectorAll('input[name="size"]');
+        const priceDisplay = document.getElementById('priceDisplay');
+
+        function updateTotal() {
+            // Nếu chưa chọn size và không check quà => 0
+            const sizeSelected = Array.from(sizeRadios).some(r => r.checked);
+            const giftSelected = giftCheckbox.checked;
+
+            if (!sizeSelected && !giftSelected) {
+                totalPriceDisplay.textContent = '0 đ';
+                return;
+            }
+
+            let price = parseInt(hiddenPrice.value);
+            let quantity = parseInt(quantityInput.value) || 1;
+            let total = price * quantity;
+
+            if (giftSelected) {
+                total += 10000 * quantity;
+            }
+
+            totalPriceDisplay.textContent = total.toLocaleString('vi-VN') + ' đ';
+        }
+
+        // Khi thay đổi size
+        sizeRadios.forEach(radio => {
+            radio.addEventListener('change', function () {
+                const price = parseInt(this.dataset.price);
+                hiddenPrice.value = price;
+                priceDisplay.textContent = price.toLocaleString('vi-VN') + ' đ';
+                updateTotal();
+            });
+        });
+
+        // Khi thay đổi số lượng hoặc túi quà
+        quantityInput.addEventListener('input', updateTotal);
+        giftCheckbox.addEventListener('change', updateTotal);
+
+        // Mặc định load = 0
+        totalPriceDisplay.textContent = '0 đ';
+    });
+
+</script>
